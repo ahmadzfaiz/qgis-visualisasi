@@ -1,6 +1,7 @@
 # Visualisasi Data dengan QGIS
 
 Halo, selamat datang di repositori visualisasi data dengan QGIS. Repositori ini berisikan data-data project dengan menggunakan QGIS yang dibuat oleh Ahmad Zaenun Faiz. Jika kamu sedang mencari inspirasi desain peta dengan menggunakan perangkat lunak QGIS, maka kamu datang di tempat yang tepat. Jika kamu suka dengan konten ini, jangan lupa kunjungi sosial media saya di [Linkedin](https://www.linkedin.com/in/ahmad-zaenun-faiz-8b1106187/), [Twitter](https://twitter.com/zaenun_faiz), [Instagram](https://www.instagram.com/ahmadzaenunfaiz/) atau [Facebook](https://www.facebook.com/ahmadzaenunfaiz/) berikut. <br>
+_Catatan: data spasial dapat diunduh pada [link](https://drive.google.com/drive/folders/1Jyy3MnB3OX3WsAg-SchZPs5Cq48BIb3M?usp=sharing) berikut._
 
 ## Lisensi
 
