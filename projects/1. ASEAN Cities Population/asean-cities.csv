@@ -1,0 +1,430 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Jakarta,Jakarta,-6.2146,106.8451,Indonesia,ID,IDN,Jakarta,primary,35362000,1360771077
+Manila,Manila,14.6,120.9833,Philippines,PH,PHL,Manila,primary,23971000,1608618140
+Bangkok,Bangkok,13.75,100.5167,Thailand,TH,THA,Krung Thep Maha Nakhon,primary,17573000,1764068610
+Ho Chi Minh City,Ho Chi Minh City,10.8167,106.6333,Vietnam,VN,VNM,H? Ch° Minh,admin,13954000,1704774326
+Kuala Lumpur,Kuala Lumpur,3.1478,101.6953,Malaysia,MY,MYS,Kuala Lumpur,primary,8639000,1458988644
+Hanoi,Hanoi,21.0245,105.8412,Vietnam,VN,VNM,HÖ N?i,primary,8246600,1704413791
+Rangoon,Rangoon,16.795,96.16,Myanmar,MM,MMR,Yangon,primary,5430000,1104616656
+Singapore,Singapore,1.3,103.8,Singapore,SG,SGP,Central Singapore,primary,5271000,1702341327
+Quezon City,Quezon City,14.6333,121.0333,Philippines,PH,PHL,Quezon,admin,2960048,1608974097
+Surabaya,Surabaya,-7.2458,112.7378,Indonesia,ID,IDN,Jawa Timur,admin,2885555,1360484663
+Bandung,Bandung,-6.95,107.5667,Indonesia,ID,IDN,Jawa Barat,admin,2875673,1360313023
+Bekasi,Bekasi,-6.2333,107,Indonesia,ID,IDN,Jawa Barat,,2381053,1360006015
+Depok,Depok,-6.394,106.8225,Indonesia,ID,IDN,Jawa Barat,,2330333,1360962899
+Tangerang,Tangerang,-6.1783,106.6319,Indonesia,ID,IDN,Jawa Barat,,2237006,1360002844
+Phnom Penh,Phnom Penh,11.5696,104.921,Cambodia,KH,KHM,Phnom Penh,primary,2129371,1116260534
+Medan,Medan,3.6667,98.6667,Indonesia,ID,IDN,Sumatera Utara,admin,2109330,1360543171
+Haiphong,Haiphong,20.8,106.6667,Vietnam,VN,VNM,H?i Phïng,admin,2103500,1704000623
+Davao,Davao,7.0667,125.6,Philippines,PH,PHL,Davao,admin,1776949,1608906877
+Caloocan City,Caloocan City,14.65,120.9667,Philippines,PH,PHL,Caloocan,admin,1661584,1608897690
+Semarang,Semarang,-6.9667,110.4167,Indonesia,ID,IDN,Jawa Tengah,admin,1621384,1360745537
+Palembang,Palembang,-2.9833,104.7644,Indonesia,ID,IDN,Sumatera Selatan,admin,1535952,1360902897
+Makassar,Makassar,-5.1331,119.4136,Indonesia,ID,IDN,Sulawesi Selatan,admin,1338663,1360051337
+C?n Th?,Can Tho,10.0333,105.7833,Vietnam,VN,VNM,C?n Th?,admin,1237300,1704783472
+Mandalay,Mandalay,21.9831,96.0844,Myanmar,MM,MMR,Mandalay,admin,1225546,1104468217
+Cilacap,Cilacap,-7.7167,109.017,Indonesia,ID,IDN,Jawa Tengah,minor,1174964,1360503809
+Bandar Lampung,Bandar Lampung,-5.4294,105.2625,Indonesia,ID,IDN,Lampung,admin,1166761,1360243491
+Nay Pyi Taw,Nay Pyi Taw,19.7475,96.115,Myanmar,MM,MMR,Nay Pyi Taw,primary,1160242,1104838105
+Biàn Hïa,Bien Hoa,10.9508,106.8221,Vietnam,VN,VNM,??ng Nai,admin,1104000,1704863046
+Bogor,Bogor,-6.5917,106.8,Indonesia,ID,IDN,Jawa Barat,,1030720,1360771925
+Batam,Batam,1.0678,104.0167,Indonesia,ID,IDN,Kepulauan Riau,,1029808,1360405604
+Th? ??c,Thu Duc,10.7924,106.7518,Vietnam,VN,VNM,H? Ch° Minh,minor,1013795,1704361621
+Qu?ng HÖ,Quang Ha,16.06,108.25,Vietnam,VN,VNM,Qu?ng Nam,,1000000,1704966442
+Pekanbaru,Pekanbaru,0.5333,101.45,Indonesia,ID,IDN,Riau,admin,983356,1360422679
+Zamboanga City,Zamboanga City,6.9167,122.0833,Philippines,PH,PHL,Zamboanga,admin,977234,1608189351
+Cebu City,Cebu City,10.293,123.902,Philippines,PH,PHL,Cebu,admin,964169,1608136151
+Vientiane,Vientiane,17.9667,102.6,Laos,LA,LAO,Viangchan,primary,948487,1418732714
+Padang,Padang,-0.9556,100.3606,Indonesia,ID,IDN,Sumatera Barat,admin,914970,1360900986
+Antipolo,Antipolo,14.5842,121.1763,Philippines,PH,PHL,Rizal,admin,887399,1608824345
+Taguig City,Taguig City,14.5167,121.05,Philippines,PH,PHL,Taguig,admin,886722,1608766695
+Klang,Klang,3.0333,101.45,Malaysia,MY,MYS,Selangor,,878000,1458509635
+Ipoh,Ipoh,4.6,101.07,Malaysia,MY,MYS,Perak,admin,866772,1458423505
+Malang,Malang,-7.98,112.62,Indonesia,ID,IDN,Jawa Timur,,866118,1360141408
+Denpasar,Denpasar,-8.6667,115.2167,Indonesia,ID,IDN,Bali,admin,834881,1360848527
+Butterworth,Butterworth,5.3992,100.3639,Malaysia,MY,MYS,Pulau Pinang,,821652,1458469233
+Pasig City,Pasig City,14.575,121.0833,Philippines,PH,PHL,Pasig,admin,803159,1608278212
+Samarinda,Samarinda,-0.5022,117.1536,Indonesia,ID,IDN,Kalimantan Timur,admin,753370,1360684979
+Cagayan de Oro,Cagayan de Oro,8.4833,124.65,Philippines,PH,PHL,Cagayan de Oro,admin,728402,1608831546
+Valenzuela,Valenzuela,14.7,120.9833,Philippines,PH,PHL,Valenzuela,admin,714978,1608492120
+George Town,George Town,5.4145,100.3292,Malaysia,MY,MYS,Pulau Pinang,admin,708127,1458236750
+Dasmari§as,Dasmarinas,14.3294,120.9367,Philippines,PH,PHL,Cavite,,703141,1608418544
+General Santos,General Santos,6.1167,125.1667,Philippines,PH,PHL,General Santos,admin,697315,1608171585
+Banjarmasin,Banjarmasin,-3.319,114.5921,Indonesia,ID,IDN,Kalimantan Selatan,admin,692793,1360685223
+City of Para§aque,City of Paranaque,14.4667,121.0167,Philippines,PH,PHL,Para§aque,admin,689992,1608379532
+Tasikmalaya,Tasikmalaya,-7.3333,108.2,Indonesia,ID,IDN,Jawa Barat,,678027,1360027771
+Bacoor,Bacoor,14.4624,120.9645,Philippines,PH,PHL,Cavite,,664625,1608869358
+Hu?,Hue,16.4637,107.5908,Vietnam,VN,VNM,Th?a Thiàn-Hu?,admin,652572,1704016023
+San Jose del Monte,San Jose del Monte,14.8139,121.0453,Philippines,PH,PHL,Bulacan,,651813,1608850554
+Petaling Jaya,Petaling Jaya,3.1073,101.6067,Malaysia,MY,MYS,Selangor,,638516,1458989343
+Makati City,Makati City,14.55,121.0333,Philippines,PH,PHL,Makati,admin,629616,1608725647
+Pontianak,Pontianak,-0.0206,109.3414,Indonesia,ID,IDN,Kalimantan Barat,admin,618388,1360992394
+Serang,Serang,-6.12,106.1503,Indonesia,ID,IDN,Banten,admin,613356,1360329102
+Kuantan,Kuantan,3.8167,103.3333,Malaysia,MY,MYS,Pahang,admin,607778,1458763489
+Las Pi§as City,Las Pinas City,14.45,120.9833,Philippines,PH,PHL,Las Pi§as,,606293,1608544537
+Jambi,Jambi,-1.59,103.61,Indonesia,ID,IDN,Jambi,admin,602187,1360645580
+Bacolod,Bacolod,10.6765,122.9509,Philippines,PH,PHL,Bacolod,admin,600783,1608244137
+Balikpapan,Balikpapan,-1.1489,116.9031,Indonesia,ID,IDN,Kalimantan Timur,,598043,1360500922
+Cimahi,Cimahi,-6.8833,107.5333,Indonesia,ID,IDN,Jawa Barat,,586580,1360181436
+Shah Alam,Shah Alam,3.0833,101.5333,Malaysia,MY,MYS,Selangor,admin,584340,1458194263
+Surakarta,Surakarta,-7.5667,110.8167,Indonesia,ID,IDN,Jawa Tengah,,552118,1360853933
+Muntinlupa City,Muntinlupa City,14.3833,121.05,Philippines,PH,PHL,Muntinlupa,admin,543445,1608473406
+City of Calamba,City of Calamba,14.2167,121.1667,Philippines,PH,PHL,Laguna,,539671,1608985581
+B?c Ninh,Bac Ninh,21.1861,106.0763,Vietnam,VN,VNM,B?c Ninh,admin,520000,1704025181
+H?i D??ng,Hai Duong,20.9399,106.3309,Vietnam,VN,VNM,H?i D??ng,admin,507469,1704909566
+Lapu-Lapu City,Lapu-Lapu City,10.3127,123.9488,Philippines,PH,PHL,Lapu-Lapu,admin,497604,1608430676
+Johor Bahru,Johor Bahru,1.4556,103.7611,Malaysia,MY,MYS,Johor,admin,497097,1458747615
+Imus,Imus,14.4297,120.9367,Philippines,PH,PHL,Cavite,,496794,1608802508
+Kota Bharu,Kota Bharu,6.1333,102.25,Malaysia,MY,MYS,Kelantan,admin,491237,1458150101
+Vinh,Vinh,18.6733,105.6922,Vietnam,VN,VNM,Ngh? An,admin,490000,1704960059
+Angeles City,Angeles City,15.1472,120.5847,Philippines,PH,PHL,Angeles,admin,462928,1608036027
+Manado,Manado,1.4931,124.8413,Indonesia,ID,IDN,Sulawesi Utara,admin,461636,1360771278
+Iloilo,Iloilo,10.7167,122.5667,Philippines,PH,PHL,Iloilo,admin,457626,1608875987
+Marikina City,Marikina City,14.65,121.1,Philippines,PH,PHL,Marikina,admin,456059,1608000077
+Melaka,Melaka,2.1889,102.2511,Malaysia,MY,MYS,Melaka,admin,455300,1458467506
+Kota Kinabalu,Kota Kinabalu,5.975,116.0725,Malaysia,MY,MYS,Sabah,admin,452058,1458441859
+General Trias,General Trias,14.3833,120.8833,Philippines,PH,PHL,Cavite,,450583,1608826995
+Rodriguez,Rodriguez,14.7167,121.1167,Philippines,PH,PHL,Rizal,,443954,1608543530
+Pasay City,Pasay City,14.55,121,Philippines,PH,PHL,Pasay,admin,440656,1608448280
+Kupang,Kupang,-10.1633,123.5778,Indonesia,ID,IDN,Nusa Tenggara Timur,admin,433970,1360696757
+Mandaluyong City,Mandaluyong City,14.5833,121.0333,Philippines,PH,PHL,Mandaluyong,admin,425758,1608166320
+Yogyakarta,Yogyakarta,-7.8014,110.3644,Indonesia,ID,IDN,Yogyakarta,admin,422732,1360384833
+Hpa-An,Hpa-An,16.8906,97.6333,Myanmar,MM,MMR,Kayin State,admin,421525,1104494124
+Seremban,Seremban,2.7297,101.9381,Malaysia,MY,MYS,Negeri Sembilan,admin,419536,1458051507
+Santa Rosa,Santa Rosa,14.3167,121.1167,Philippines,PH,PHL,Laguna,,414812,1608571683
+Jayapura,Jayapura,-2.5333,140.7167,Indonesia,ID,IDN,Papua,admin,413283,1360517692
+Mataram,Mataram,-8.5833,116.1167,Indonesia,ID,IDN,Nusa Tenggara Barat,admin,408900,1360021952
+Bi§an,Binan,14.3333,121.0833,Philippines,PH,PHL,Laguna,,407437,1608039268
+Sandakan,Sandakan,5.8388,118.1173,Malaysia,MY,MYS,Sabah,,396290,1458405180
+Thanh H¢a,Thanh Hoa,19.8075,105.7764,Vietnam,VN,VNM,Thanh H¢a,admin,393294,1704016079
+Nha Trang,Nha Trang,12.2495,109.1908,Vietnam,VN,VNM,Kh†nh Hïa,admin,392279,1704497901
+Cilegon,Cilegon,-6.0167,106.0167,Indonesia,ID,IDN,Banten,,387543,1360643410
+Taytay,Taytay,14.5692,121.1325,Philippines,PH,PHL,Rizal,,386451,1608530771
+Tarlac City,Tarlac City,15.4802,120.5979,Philippines,PH,PHL,Tarlac,admin,385398,1608237027
+Malabon,Malabon,14.6625,120.9567,Philippines,PH,PHL,Malabon,admin,380522,1608045841
+Cainta,Cainta,14.5667,121.1167,Philippines,PH,PHL,Rizal,,376933,1608314665
+Lipa City,Lipa City,13.9411,121.1622,Philippines,PH,PHL,Batangas,,372931,1608615113
+Butuan,Butuan,8.9534,125.5288,Philippines,PH,PHL,Butuan,admin,372910,1608000722
+Ambon,Ambon,-3.705,128.17,Indonesia,ID,IDN,Maluku,admin,372249,1360756802
+Baguio City,Baguio City,16.4152,120.5956,Philippines,PH,PHL,Baguio,admin,366358,1608164766
+Mandaue City,Mandaue City,10.3333,123.9333,Philippines,PH,PHL,Mandaue,admin,364116,1608794590
+Iligan,Iligan,8.2333,124.25,Philippines,PH,PHL,Iligan,admin,363115,1608000268
+Bengkulu,Bengkulu,-3.7956,102.2592,Indonesia,ID,IDN,Bengkulu,admin,360495,1360191448
+Palu,Palu,-0.895,119.8594,Indonesia,ID,IDN,Sulawesi Tengah,admin,359350,1360518272
+Sungai Petani,Sungai Petani,5.65,100.48,Malaysia,MY,MYS,Kedah,,358499,1458639918
+Cabuyao,Cabuyao,14.275,121.125,Philippines,PH,PHL,Laguna,,355330,1608604441
+San Fernando,San Fernando,15.0333,120.6833,Philippines,PH,PHL,Pampanga,admin,354666,1608862124
+Nam ??nh,Nam Dinh,20.42,106.1683,Vietnam,VN,VNM,Nam ??nh,admin,352108,1704906277
+Batangas,Batangas,13.75,121.05,Philippines,PH,PHL,Batangas,admin,351437,1608417616
+Buìn Ma Thu?t,Buon Ma Thuot,12.6667,108.05,Vietnam,VN,VNM,??k L?k,admin,340000,1704542086
+Kendari,Kendari,-3.9675,122.5947,Indonesia,ID,IDN,Sulawesi Tenggara,admin,331013,1360992102
+Th†i Nguyàn,Thai Nguyen,21.6,105.85,Vietnam,VN,VNM,Th†i Nguyàn,admin,330000,1704613715
+Cabanatuan City,Cabanatuan City,15.4833,120.9667,Philippines,PH,PHL,Nueva Ecija,,327325,1608247694
+V?ng TÖu,Vung Tau,10.4042,107.1417,Vietnam,VN,VNM,BÖ R?a-V?ng TÖu,admin,327000,1704581438
+San Pedro,San Pedro,14.3583,121.0583,Philippines,PH,PHL,Laguna,,326001,1608848483
+Kuching,Kuching,1.5397,110.3542,Malaysia,MY,MYS,Sarawak,admin,325132,1458462262
+Cotabato,Cotabato,7.2167,124.25,Philippines,PH,PHL,Cotabato,admin,325079,1608753128
+Sukabumi,Sukabumi,-6.9197,106.9272,Indonesia,ID,IDN,Jawa Barat,,320970,1360447543
+Cirebon,Cirebon,-6.7167,108.5667,Indonesia,ID,IDN,Jawa Barat,,316126,1360011375
+CÖ Mau,Ca Mau,9.1833,105.15,Vietnam,VN,VNM,CÖ Mau,admin,315270,1704320474
+Binangonan,Binangonan,14.4514,121.1919,Philippines,PH,PHL,Rizal,,313631,1608102511
+Tanza,Tanza,14.3944,120.8531,Philippines,PH,PHL,Cavite,,312116,1608010777
+Quy Nh?n,Quy Nhon,13.7696,109.2314,Vietnam,VN,VNM,Bçnh ??nh,admin,311000,1704056461
+Puerto Princesa,Puerto Princesa,9.75,118.75,Philippines,PH,PHL,Puerto Princesa,admin,307079,1608455700
+S¢c Tr?ng,Soc Trang,9.6,105.9719,Vietnam,VN,VNM,S¢c Tr?ng,admin,300000,1704758756
+Jember,Jember,-8.1727,113.6873,Indonesia,ID,IDN,Jawa Timur,minor,298585,1360316553
+Pekalongan,Pekalongan,-6.8883,109.6753,Indonesia,ID,IDN,Jawa Tengah,,298386,1360039434
+Tagum,Tagum,7.4478,125.8078,Philippines,PH,PHL,Davao del Norte,admin,296202,1608755366
+Silang,Silang,14.2306,120.975,Philippines,PH,PHL,Cavite,,295644,1608301996
+Mabalacat,Mabalacat,15.2167,120.5833,Philippines,PH,PHL,Pampanga,,293244,1608402560
+Santa Maria,Santa Maria,14.8183,120.9563,Philippines,PH,PHL,Bulacan,,289820,1608186208
+San Pablo,San Pablo,14.07,121.325,Philippines,PH,PHL,Laguna,,285348,1608801564
+Bago,Bago,17.3433,96.4981,Myanmar,MM,MMR,Bago,admin,284179,1104027443
+Lucena,Lucena,13.9333,121.6167,Philippines,PH,PHL,Lucena,admin,278924,1608000461
+Long Xuyàn,Long Xuyen,10.3686,105.4234,Vietnam,VN,VNM,An Giang,admin,278658,1704453892
+Pematangsiantar,Pematangsiantar,2.96,99.06,Indonesia,ID,IDN,Sumatera Utara,,278055,1360769496
+Vi?t Trç,Viet Tri,21.3136,105.3947,Vietnam,VN,VNM,Ph£ Th?,admin,277539,1704332956
+Tegal,Tegal,-6.8667,109.1333,Indonesia,ID,IDN,Jawa Tengah,,275789,1360035814
+San Mateo,San Mateo,14.6969,121.1219,Philippines,PH,PHL,Rizal,,273306,1608557779
+Majene,Majene,-3.5336,118.966,Indonesia,ID,IDN,Sulawesi Barat,minor,272377,1360498576
+Sorong,Sorong,-0.8667,131.25,Indonesia,ID,IDN,Papua Barat,,272349,1360018780
+Binjai,Binjai,3.6,98.4853,Indonesia,ID,IDN,Sumatera Utara,,269053,1360884608
+Th†i Bçnh,Thai Binh,20.4461,106.3422,Vietnam,VN,VNM,Th†i Bçnh,admin,268167,1704716027
+Myeik,Myeik,12.4394,98.6003,Myanmar,MM,MMR,Taninthayi,,266720,1104715655
+Dumai,Dumai,1.6667,101.45,Indonesia,ID,IDN,Riau,,264084,1360153292
+Talisay,Talisay,10.25,123.8333,Philippines,PH,PHL,Cebu,,263048,1608040297
+Malolos,Malolos,14.8433,120.8114,Philippines,PH,PHL,Bulacan,admin,261189,1608358783
+Olongapo,Olongapo,14.8333,120.2833,Philippines,PH,PHL,Olongapo,admin,260317,1608001640
+Qu?ng Ng∆i,Quang Ngai,15.1206,108.7922,Vietnam,VN,VNM,Qu?ng Ng∆i,admin,260252,1704029499
+?p ?a L?i,Ap Da Loi,11.9304,108.42,Vietnam,VN,VNM,LÉm ??ng,,256019,1704613422
+Nonthaburi,Nonthaburi,13.8667,100.5167,Thailand,TH,THA,Nonthaburi,admin,255671,1764667935
+Kuala Terengganu,Kuala Terengganu,5.3303,103.1408,Malaysia,MY,MYS,Terengganu,admin,255109,1458475563
+Marilao,Marilao,14.7581,120.9481,Philippines,PH,PHL,Bulacan,,254453,1608371779
+Kediri,Kediri,-7.8111,112.0047,Indonesia,ID,IDN,Jawa Timur,,252000,1360498846
+Tacloban,Tacloban,11.2444,125.0039,Philippines,PH,PHL,Tacloban,admin,251881,1608710592
+R?ch Gi†,Rach Gia,10.0125,105.0808,Vietnam,VN,VNM,Ki?n Giang,admin,250660,1704872008
+Palangkaraya,Palangkaraya,-2.21,113.92,Indonesia,ID,IDN,Kalimantan Tengah,admin,249434,1360268553
+Sibu,Sibu,2.3,111.8167,Malaysia,MY,MYS,Sarawak,,247995,1458970454
+Navotas,Navotas,14.6667,120.9417,Philippines,PH,PHL,Navotas,admin,247543,1608538447
+Th? D?u M?t,Thu Dau Mot,11.0042,106.6583,Vietnam,VN,VNM,Bçnh D??ng,admin,244277,1704890399
+Myitkyina,Myitkyina,25.3867,97.3936,Myanmar,MM,MMR,Kachin State,admin,243031,1104327329
+Tuy Hïa,Tuy Hoa,13.0869,109.3086,Vietnam,VN,VNM,Ph£ Yàn,admin,242840,1704697424
+Taiping,Taiping,4.85,100.7333,Malaysia,MY,MYS,Perak,,237095,1458446120
+Pathein,Pathein,16.7667,94.7333,Myanmar,MM,MMR,Ayeyawady,admin,237089,1104832430
+Banda Aceh,Banda Aceh,5.55,95.3175,Indonesia,ID,IDN,Aceh,admin,235305,1360353144
+Miri,Miri,4.4028,113.9933,Malaysia,MY,MYS,Sarawak,,234541,1458079883
+Singaraja,Singaraja,-8.1167,115.0833,Indonesia,ID,IDN,Bali,minor,234468,1360426282
+Ormoc,Ormoc,11.0167,124.6167,Philippines,PH,PHL,Ormoc,admin,230998,1608269612
+Singkawang,Singkawang,0.9,108.9833,Indonesia,ID,IDN,Kalimantan Barat,,230376,1360906363
+Meycauayan,Meycauayan,14.7333,120.95,Philippines,PH,PHL,Bulacan,,225673,1608553352
+Padangsidempuan,Padangsidempuan,1.3667,99.2667,Indonesia,ID,IDN,Sumatera Utara,,225544,1360506609
+B?c Liàu,Bac Lieu,9.2833,105.7167,Vietnam,VN,VNM,B?c Liàu,admin,225000,1704298745
+Probolinggo,Probolinggo,-7.75,113.2167,Indonesia,ID,IDN,Jawa Timur,,223159,1360138476
+Dili,Dili,-8.5536,125.5783,Timor-Leste,TL,TLS,D°li,primary,222323,1626308942
+Bitung,Bitung,1.4472,125.1978,Indonesia,ID,IDN,Sulawesi Utara,,218520,1360695939
+Santo Tomas,Santo Tomas,14.0833,121.1833,Philippines,PH,PHL,Batangas,,218500,1608845898
+Alor Setar,Alor Setar,6.1167,100.3667,Malaysia,MY,MYS,Kedah,admin,217000,1458273978
+Banjarbaru,Banjarbaru,-3.4425,114.8325,Indonesia,ID,IDN,Kalimantan Selatan,,216600,1360085654
+Valencia,Valencia,7.9,125.0833,Philippines,PH,PHL,Bukidnon,,216546,1608418474
+Sa ?Çc,Sa Dec,10.3105,105.7397,Vietnam,VN,VNM,??ng Th†p,minor,213610,1704983576
+Trece Martires City,Trece Martires City,14.2833,120.8667,Philippines,PH,PHL,Cavite,admin,210503,1608990723
+Pagadian,Pagadian,7.8333,123.4333,Philippines,PH,PHL,Zamboanga del Sur,admin,210452,1608329397
+Bukit Mertajam,Bukit Mertajam,5.3631,100.4667,Malaysia,MY,MYS,Pulau Pinang,,210000,1458619046
+Legazpi City,Legazpi City,13.1333,123.7333,Philippines,PH,PHL,Albay,admin,209533,1608693683
+Panabo,Panabo,7.3,125.6833,Philippines,PH,PHL,Davao del Norte,,209230,1608577408
+Naga City,Naga City,13.6167,123.1667,Philippines,PH,PHL,Naga,admin,209170,1608775993
+Lubuklinggau,Lubuklinggau,-3.2967,102.8617,Indonesia,ID,IDN,Sumatera Selatan,,208225,1360359449
+Monywa,Monywa,22.1086,95.1358,Myanmar,MM,MMR,Sagaing,,207489,1104777345
+Toledo,Toledo,10.3833,123.65,Philippines,PH,PHL,Cebu,,207314,1608665464
+Marawi City,Marawi City,8,124.3,Philippines,PH,PHL,Lanao del Sur,admin,207010,1608812117
+San Carlos City,San Carlos City,15.9281,120.3489,Philippines,PH,PHL,Pangasinan,,205424,1608542323
+Phan Thi?t,Phan Thiet,10.9375,108.1583,Vietnam,VN,VNM,Bçnh Thu?n,admin,205333,1704221456
+Ternate,Ternate,0.7833,127.3667,Indonesia,ID,IDN,Maluku Utara,,204215,1360041663
+Tanjungpinang,Tanjungpinang,0.9188,104.4554,Indonesia,ID,IDN,Kepulauan Riau,admin,203008,1360990589
+Tarakan,Tarakan,3.3,117.6333,Indonesia,ID,IDN,Kalimantan Utara,,201635,1360080072
+Kabankalan,Kabankalan,9.9833,122.8167,Philippines,PH,PHL,Negros Occidental,,200198,1608697923
+Lahad Datu,Lahad Datu,5.03,118.34,Malaysia,MY,MYS,Sabah,,199830,1458472057
+Martapura,Martapura,-3.4135,114.8365,Indonesia,ID,IDN,Kalimantan Selatan,minor,198239,1360139854
+Koronadal,Koronadal,6.5,124.85,Philippines,PH,PHL,South Cotabato,,195398,1608000651
+Tanauan,Tanauan,14.0833,121.15,Philippines,PH,PHL,Batangas,,193936,1608053818
+Gorontalo,Gorontalo,0.5411,123.0594,Indonesia,ID,IDN,Gorontalo,admin,191897,1360408580
+Muar,Muar,2.05,102.56,Malaysia,MY,MYS,Johor,,191346,1458170112
+Bago,Bago,10.5388,122.8384,Philippines,PH,PHL,Negros Occidental,,191210,1608943172
+Malaybalay,Malaybalay,8.1575,125.1278,Philippines,PH,PHL,Bukidnon,admin,190712,1608859265
+Batu,Batu,-7.8672,112.5239,Indonesia,ID,IDN,Jawa Timur,,190184,1360427259
+S?n TÉy,Son Tay,21.1382,105.505,Vietnam,VN,VNM,HÖ N?i,minor,189547,1704714941
+Digos,Digos,6.75,125.35,Philippines,PH,PHL,Davao del Sur,admin,188376,1608635653
+Prabumulih,Prabumulih,-3.462,104.2229,Indonesia,ID,IDN,Sumatera Selatan,minor,188082,1360148993
+Calbayog City,Calbayog City,12.0667,124.6,Philippines,PH,PHL,Samar,,186960,1608088739
+Pasuruan,Pasuruan,-7.6406,112.9065,Indonesia,ID,IDN,Jawa Timur,,186262,1360084806
+Madiun,Madiun,-7.63,111.5231,Indonesia,ID,IDN,Jawa Timur,,186099,1360921516
+Pak Kret,Pak Kret,13.9125,100.4978,Thailand,TH,THA,Nonthaburi,minor,184501,1764165203
+Banjar,Banjar,-7.3667,108.5333,Indonesia,ID,IDN,Jawa Barat,minor,182819,1360289512
+Pinrang,Pinrang,-3.7857,119.6522,Indonesia,ID,IDN,Sulawesi Selatan,minor,182731,1360941841
+Sorsogon,Sorsogon,12.9667,124,Philippines,PH,PHL,Sorsogon,admin,182237,1608265953
+Sittwe,Sittwe,20.1444,92.8969,Myanmar,MM,MMR,Rakhine State,admin,181000,1104269305
+Hinthada,Hinthada,17.6483,95.4679,Myanmar,MM,MMR,Ayeyawady,,180728,1104524588
+Lhokseumawe,Lhokseumawe,5.18,97.1506,Indonesia,ID,IDN,Aceh,,180200,1360418625
+Palopo,Palopo,-3,120.2,Indonesia,ID,IDN,Sulawesi Selatan,,180130,1360740288
+Phan Rang-Th†p ChÖm,Phan Rang-Thap Cham,11.5643,108.9886,Vietnam,VN,VNM,Ninh Thu?n,admin,179773,1704094609
+Roxas City,Roxas City,11.5833,122.75,Philippines,PH,PHL,Capiz,admin,179292,1608344583
+Purwakarta,Purwakarta,-6.54,107.44,Indonesia,ID,IDN,Jawa Barat,minor,179233,1360967092
+Langsa,Langsa,4.4667,97.95,Indonesia,ID,IDN,Aceh,,178334,1360337304
+Letpandan,Letpandan,17.7866,95.7507,Myanmar,MM,MMR,Bago,,176571,1104882792
+Salatiga,Salatiga,-7.3389,110.5022,Indonesia,ID,IDN,Jawa Tengah,,175288,1360271289
+Dagupan City,Dagupan City,16.043,120.334,Philippines,PH,PHL,Dagupan,admin,174302,1608530964
+Lubao,Lubao,14.9333,120.6,Philippines,PH,PHL,Pampanga,,173502,1608215915
+Mexico,Mexico,15.0667,120.7167,Philippines,PH,PHL,Pampanga,,173403,1608191667
+H? Long,Ha Long,20.9516,107.0852,Vietnam,VN,VNM,Qu?ng Ninh,admin,172915,1704379547
+Polomolok,Polomolok,6.2167,125.0667,Philippines,PH,PHL,South Cotabato,,172605,1608490461
+General Mariano Alvarez,General Mariano Alvarez,14.3,121,Philippines,PH,PHL,Cavite,,172433,1608815735
+Banyuwangi,Banyuwangi,-8.195,114.3696,Indonesia,ID,IDN,Jawa Timur,minor,172424,1360008480
+San Miguel,San Miguel,15.1458,120.9783,Philippines,PH,PHL,Bulacan,,172073,1608046677
+Surigao,Surigao,9.7833,125.4833,Philippines,PH,PHL,Surigao del Norte,admin,171107,1608611556
+Concepcion,Concepcion,15.3249,120.6554,Philippines,PH,PHL,Tarlac,,169953,1608682956
+Kluang,Kluang,2.0336,103.3194,Malaysia,MY,MYS,Johor,,169828,1458692921
+Tebingtinggi,Tebingtinggi,3.3283,99.1625,Indonesia,ID,IDN,Sumatera Utara,,169786,1360386781
+Baliuag,Baliuag,14.95,120.9,Philippines,PH,PHL,Bulacan,,168470,1608703693
+Tuguegarao,Tuguegarao,17.6167,121.7167,Philippines,PH,PHL,Cagayan,admin,166334,1608110634
+Tanjungbalai,Tanjungbalai,2.9667,99.8,Indonesia,ID,IDN,Sumatera Utara,,165763,1360992709
+HÖ T?nh,Ha Tinh,18.3431,105.9058,Vietnam,VN,VNM,HÖ T?nh,admin,165396,1704544061
+Midsayap,Midsayap,7.1917,124.5333,Philippines,PH,PHL,Cotabato,,165376,1608454598
+Pikit,Pikit,7.05,124.6667,Philippines,PH,PHL,Cotabato,,164646,1608218990
+Myingyan,Myingyan,21.4618,95.3914,Myanmar,MM,MMR,Mandalay,,163812,1104162015
+Sariaya,Sariaya,13.9667,121.5333,Philippines,PH,PHL,Quezon,,161868,1608396060
+Metro,Metro,-5.1167,105.3,Indonesia,ID,IDN,Lampung,,161799,1360659228
+Bontang,Bontang,0.1333,117.5,Indonesia,ID,IDN,Kalimantan Timur,,161413,1360692406
+Naic,Naic,14.3167,120.7667,Philippines,PH,PHL,Cavite,,160987,1608196842
+Kidapawan,Kidapawan,7.0083,125.0894,Philippines,PH,PHL,Cotabato,admin,160791,1608883158
+??ng H?i,Dong Hoi,17.4833,106.6,Vietnam,VN,VNM,Qu?ng Bçnh,admin,160325,1704323043
+Taunggyi,Taunggyi,20.7833,96.9667,Myanmar,MM,MMR,Shan State,admin,160115,1104364374
+Hat Yai,Hat Yai,7.0167,100.4667,Thailand,TH,THA,Songkhla,minor,159130,1764161022
+Cadiz,Cadiz,10.95,123.3,Philippines,PH,PHL,Negros Occidental,,158544,1608224037
+Ilagan,Ilagan,17.1333,121.8833,Philippines,PH,PHL,Isabela,admin,158218,1608190610
+ChÉu ??c,Chau Doc,10.7,105.1167,Vietnam,VN,VNM,An Giang,,157298,1704020910
+Danao,Danao,10.5333,123.9333,Philippines,PH,PHL,Cebu,,156321,1608547808
+Capas,Capas,15.3312,120.5898,Philippines,PH,PHL,Tarlac,,156056,1608379387
+C?m Ph?,Cam Pha,21.0065,107.2726,Vietnam,VN,VNM,Qu?ng Ninh,minor,156000,1704985016
+Pandi,Pandi,14.8667,120.95,Philippines,PH,PHL,Bulacan,,155115,1608700526
+San Jose,San Jose,12.3528,121.0676,Philippines,PH,PHL,Occidental Mindoro,,153267,1608355709
+Poblacion,Poblacion,10.4167,123.9667,Philippines,PH,PHL,Cebu,,153197,1608456191
+Mudon,Mudon,16.2618,97.7215,Myanmar,MM,MMR,Mon State,,152300,1104174785
+Baubau,Baubau,-5.4667,122.633,Indonesia,ID,IDN,Sulawesi Tenggara,,152143,1360789994
+Minglanilla,Minglanilla,10.245,123.7964,Philippines,PH,PHL,Cebu,,151002,1608573791
+San Jose,San Jose,15.7833,121,Philippines,PH,PHL,Nueva Ecija,,150917,1608000478
+Mariveles,Mariveles,14.4333,120.4833,Philippines,PH,PHL,Bataan,,149879,1608735167
+Cao L∆nh,Cao Lanh,10.4603,105.6331,Vietnam,VN,VNM,??ng Th†p,admin,149837,1704276832
+Saumlaki,Saumlaki,-7.975,131.3075,Indonesia,ID,IDN,Maluku,minor,149790,1360861988
+Sagay,Sagay,10.9,123.4167,Philippines,PH,PHL,Negros Occidental,,148894,1608284971
+Santiago,Santiago,16.6833,121.55,Philippines,PH,PHL,Santiago,admin,148580,1608477470
+Consolacion,Consolacion,10.4,123.95,Philippines,PH,PHL,Cebu,,148012,1608199695
+L?ng S?n,Lang Son,21.8478,106.7578,Vietnam,VN,VNM,L?ng S?n,admin,148000,1704004349
+Siem Reap,Siem Reap,13.3622,103.8597,Cambodia,KH,KHM,Siem Reap,admin,147866,1116263015
+Mati,Mati,6.95,126.2333,Philippines,PH,PHL,Davao Oriental,admin,147547,1608000731
+Cam Ranh,Cam Ranh,11.902,109.2207,Vietnam,VN,VNM,Kh†nh Hïa,,146771,1704104189
+Pleiku,Pleiku,13.9715,108.0147,Vietnam,VN,VNM,Gia Lai,admin,146073,1704220080
+Calapan,Calapan,13.3667,121.2,Philippines,PH,PHL,Oriental Mindoro,admin,145786,1608578259
+Arayat,Arayat,15.1493,120.7692,Philippines,PH,PHL,Pampanga,,144875,1608482411
+Urdaneta,Urdaneta,15.9761,120.5711,Philippines,PH,PHL,Pangasinan,,144577,1608117383
+Calabayan,Calabayan,16.7667,121.7833,Philippines,PH,PHL,Isabela,,143403,1608955576
+Malasiqui,Malasiqui,15.9167,120.4167,Philippines,PH,PHL,Pangasinan,,143094,1608316754
+Bocaue,Bocaue,14.8,120.9333,Philippines,PH,PHL,Bulacan,,141412,1608457468
+Tabaco,Tabaco,13.35,123.7333,Philippines,PH,PHL,Albay,,140961,1608252596
+Porac,Porac,15.0719,120.5419,Philippines,PH,PHL,Pampanga,,140751,1608946840
+Ozamiz City,Ozamiz City,8.15,123.85,Philippines,PH,PHL,Misamis Occidental,,140334,1608100412
+Batu Pahat,Batu Pahat,1.85,102.93,Malaysia,MY,MYS,Johor,,140000,1458310769
+Dawei,Dawei,14.0367,98.1867,Myanmar,MM,MMR,Taninthayi,admin,139900,1104373474
+Tanay,Tanay,14.4972,121.2864,Philippines,PH,PHL,Rizal,,139420,1608260734
+Dipolog,Dipolog,8.5667,123.3333,Philippines,PH,PHL,Zamboanga del Norte,admin,138141,1608664300
+Candelaria,Candelaria,13.9311,121.4233,Philippines,PH,PHL,Quezon,minor,137881,1608579689
+TÉn An,Tan An,10.5322,106.4042,Vietnam,VN,VNM,Long An,admin,137498,1704199290
+La Trinidad,La Trinidad,16.4621,120.5877,Philippines,PH,PHL,Benguet,admin,137404,1608000107
+Jolo,Jolo,6.05,121,Philippines,PH,PHL,Sulu,admin,137266,1608685440
+Gunungsitoli,Gunungsitoli,1.1167,97.5667,Indonesia,ID,IDN,Sumatera Utara,minor,137104,1360175198
+Gingoog,Gingoog,8.8167,125.1,Philippines,PH,PHL,Misamis Oriental,,136698,1608630986
+Nasugbu,Nasugbu,14.0667,120.6333,Philippines,PH,PHL,Batangas,,136524,1608413633
+Bima,Bima,-8.4667,118.717,Indonesia,ID,IDN,Nusa Tenggara Barat,,136492,1360521866
+Carcar,Carcar,10.1167,123.6333,Philippines,PH,PHL,Cebu,,136453,1608778175
+Pageralam,Pageralam,-4.0217,103.2522,Indonesia,ID,IDN,Sumatera Selatan,minor,136244,1360027360
+Norzagaray,Norzagaray,14.9167,121.05,Philippines,PH,PHL,Bulacan,,136064,1608520209
+Floridablanca,Floridablanca,14.9333,120.5,Philippines,PH,PHL,Pampanga,,135542,1608344732
+Pyay,Pyay,18.8165,95.2114,Myanmar,MM,MMR,Bago,,135308,1104978348
+Nakhon Ratchasima,Nakhon Ratchasima,14.9736,102.0831,Thailand,TH,THA,Nakhon Ratchasima,admin,134440,1764752197
+Dumaguete City,Dumaguete City,9.3103,123.3081,Philippines,PH,PHL,Negros Oriental,admin,134103,1608682936
+Daraga,Daraga,13.1619,123.6939,Philippines,PH,PHL,Albay,,133893,1608571209
+Hagonoy,Hagonoy,14.8333,120.7333,Philippines,PH,PHL,Bulacan,,133448,1608693751
+Naga,Naga,10.2167,123.75,Philippines,PH,PHL,Cebu,,133184,1608928299
+San Carlos,San Carlos,10.4929,123.4095,Philippines,PH,PHL,Negros Occidental,,132650,1608048026
+Chiang Mai,Chiang Mai,18.7889,98.9833,Thailand,TH,THA,Chiang Mai,admin,132634,1764662886
+Talavera,Talavera,15.5839,120.9189,Philippines,PH,PHL,Nueva Ecija,,132338,1608474974
+Blitar,Blitar,-8.1,112.15,Indonesia,ID,IDN,Jawa Timur,,132018,1360011677
+TrÖ Vinh,Tra Vinh,9.9369,106.3411,Vietnam,VN,VNM,TrÖ Vinh,admin,131360,1704929966
+Surat Thani,Surat Thani,9.1397,99.3306,Thailand,TH,THA,Surat Thani,admin,130703,1764338230
+Ninh Bçnh,Ninh Binh,20.2581,105.9797,Vietnam,VN,VNM,Ninh Bçnh,admin,130517,1704442748
+Angono,Angono,14.5234,121.1536,Philippines,PH,PHL,Rizal,,130494,1608373503
+Silay,Silay,10.8,122.9667,Philippines,PH,PHL,Negros Occidental,,130478,1608362038
+City of Isabela,City of Isabela,6.7,121.9667,Philippines,PH,PHL,Basilan,admin,130379,1608621038
+Udon Thani,Udon Thani,17.4253,102.7902,Thailand,TH,THA,Udon Thani,admin,130274,1764676047
+Mojokerto,Mojokerto,-7.4722,112.4336,Indonesia,ID,IDN,Jawa Timur,,130196,1360053101
+Battambang,Battambang,13.1028,103.1983,Cambodia,KH,KHM,Battambang,admin,130000,1116106237
+Parepare,Parepare,-4.0167,119.6236,Indonesia,ID,IDN,Sulawesi Selatan,,129542,1360021476
+Guagua,Guagua,14.9667,120.6333,Philippines,PH,PHL,Pampanga,,128893,1608453085
+Santo Tomas,Santo Tomas,7.5333,125.6167,Philippines,PH,PHL,Davao del Norte,,128667,1608792041
+Rosario,Rosario,13.846,121.206,Philippines,PH,PHL,Batangas,,128352,1608786784
+Guimba,Guimba,15.6581,120.7689,Philippines,PH,PHL,Nueva Ecija,,127653,1608954884
+Pakokku,Pakokku,21.332,95.0866,Myanmar,MM,MMR,Magway,,126938,1104161315
+TÉy Ninh,Tay Ninh,11.3131,106.0963,Vietnam,VN,VNM,TÉy Ninh,admin,126370,1704250951
+San Juan,San Juan,14.6,121.0333,Philippines,PH,PHL,San Juan,admin,126347,1608817515
+Magway,Magway,20.15,94.95,Myanmar,MM,MMR,Magway,admin,125973,1104246517
+Pangkalpinang,Pangkalpinang,-2.1,106.1,Indonesia,ID,IDN,Kepulauan Bangka Belitung,admin,125933,1360901919
+San Fernando,San Fernando,16.6167,120.3167,Philippines,PH,PHL,La Union,admin,125640,1608635527
+Payakumbuh,Payakumbuh,-0.2244,100.6325,Indonesia,ID,IDN,Sumatera Barat,,125608,1360091636
+Cam Ranh,Cam Ranh,11.9136,109.1369,Vietnam,VN,VNM,Kh†nh Hïa,minor,125311,1704516746
+Magelang,Magelang,-7.4706,110.2178,Indonesia,ID,IDN,Jawa Tengah,,124912,1360065728
+Magalang,Magalang,15.2167,120.6667,Philippines,PH,PHL,Pampanga,minor,124188,1608172208
+M? Tho,My Tho,10.3543,106.364,Vietnam,VN,VNM,Ti?n Giang,admin,124143,1704000376
+Savannakhet,Savannakhet,16.55,104.75,Laos,LA,LAO,SavannakhÇt,admin,124000,1418179232
+Santa Cruz,Santa Cruz,14.2833,121.4167,Philippines,PH,PHL,Laguna,,123574,1608971699
+Indramayu,Indramayu,-6.3356,108.319,Indonesia,ID,IDN,Jawa Barat,minor,123263,1360004807
+Gapan,Gapan,15.3075,120.9453,Philippines,PH,PHL,Nueva Ecija,,122968,1608386821
+Pati,Pati,-6.7415,111.0347,Indonesia,ID,IDN,Jawa Tengah,minor,122785,1360407556
+Bayawan,Bayawan,9.3667,122.8,Philippines,PH,PHL,Negros Oriental,,122747,1608189345
+H?i An,Hoi An,15.8777,108.3327,Vietnam,VN,VNM,Qu?ng Nam,,121716,1704897050
+Hïa Bçnh,Hoa Binh,20.8175,105.3375,Vietnam,VN,VNM,Hïa Bçnh,admin,121309,1704237072
+Tabuk,Tabuk,17.45,121.4583,Philippines,PH,PHL,Kalinga,,121033,1608831439
+Kotamobagu,Kotamobagu,0.7333,124.3167,Indonesia,ID,IDN,Sulawesi Utara,,120597,1360015626
+Ban Bang Pu Mai,Ban Bang Pu Mai,13.5441,100.6175,Thailand,TH,THA,Samut Prakan,,120058,1764009212
+PakxÇ,Pakxe,15.1167,105.7833,Laos,LA,LAO,Champasak,admin,119848,1418863956
+Candaba,Candaba,15.0933,120.8283,Philippines,PH,PHL,Pampanga,,119497,1608001625
+Calumpit,Calumpit,14.9167,120.7667,Philippines,PH,PHL,Bulacan,,118471,1608584009
+Kampong Cham,Kampong Cham,12,105.45,Cambodia,KH,KHM,Kampong Cham,admin,118242,1116115849
+Dinalupihan,Dinalupihan,14.8833,120.4667,Philippines,PH,PHL,Bataan,,118209,1608149999
+Malita,Malita,6.4,125.6,Philippines,PH,PHL,Davao Occidental,admin,118197,1608802375
+Ligao,Ligao,13.2167,123.5167,Philippines,PH,PHL,Albay,,118096,1608907106
+Apalit,Apalit,14.9496,120.7587,Philippines,PH,PHL,Pampanga,,117160,1608288417
+Samal,Samal,7.05,125.7333,Philippines,PH,PHL,Davao del Norte,,116771,1608425228
+Himamaylan,Himamaylan,10.1,122.8667,Philippines,PH,PHL,Negros Occidental,,116240,1608765297
+Bongao,Bongao,5.0292,119.7731,Philippines,PH,PHL,Tawi-Tawi,admin,116118,1608490585
+Khon Kaen,Khon Kaen,16.4333,102.8333,Thailand,TH,THA,Khon Kaen,admin,115928,1764003406
+Phatthaya,Phatthaya,12.9496,100.893,Thailand,TH,THA,Chon Buri,,115840,1764492695
+San Ildefonso,San Ildefonso,15.0789,120.9419,Philippines,PH,PHL,Bulacan,,115713,1608068184
+Los Ba§os,Los Banos,14.1667,121.2167,Philippines,PH,PHL,Laguna,,115353,1608920078
+Iriga City,Iriga City,13.4167,123.4167,Philippines,PH,PHL,Camarines Sur,,114457,1608112592
+Plaridel,Plaridel,14.8869,120.8569,Philippines,PH,PHL,Bulacan,,114432,1608000273
+San Juan,San Juan,13.826,121.396,Philippines,PH,PHL,Batangas,minor,114068,1608474998
+Bintulu,Bintulu,3.17,113.03,Malaysia,MY,MYS,Sarawak,,114058,1458164361
+Tawau,Tawau,4.2448,117.8911,Malaysia,MY,MYS,Sabah,,113809,1458745722
+Guiguinto,Guiguinto,14.8333,120.8833,Philippines,PH,PHL,Bulacan,,113415,1608949348
+Bukittinggi,Bukittinggi,-0.3097,100.3753,Indonesia,ID,IDN,Sumatera Barat,,113326,1360552560
+Manolo Fortich,Manolo Fortich,8.3697,124.8644,Philippines,PH,PHL,Bukidnon,,113200,1608811201
+Mangaldan,Mangaldan,16.07,120.4025,Philippines,PH,PHL,Pangasinan,,113185,1608105622
+Libmanan,Libmanan,13.7,123.0667,Philippines,PH,PHL,Camarines Sur,,112994,1608310701
+Tayabas,Tayabas,14.0167,121.5833,Philippines,PH,PHL,Quezon,,112658,1608195528
+Subic,Subic,14.9,120.2333,Philippines,PH,PHL,Zambales,,111912,1608633194
+Baybay,Baybay,10.6833,124.8333,Philippines,PH,PHL,Leyte,,111848,1608960920
+Daet,Daet,14.1167,122.95,Philippines,PH,PHL,Camarines Norte,admin,111700,1608562606
+Laoag,Laoag,18.1951,120.5918,Philippines,PH,PHL,Ilocos Norte,admin,111651,1608043510
+Rosario,Rosario,14.4167,120.85,Philippines,PH,PHL,Cavite,,110807,1608718800
+Yenangyaung,Yenangyaung,20.4583,94.8732,Myanmar,MM,MMR,Magway,,110553,1104118838
+Quezon,Quezon,7.7333,125.1,Philippines,PH,PHL,Bukidnon,,109624,1608600962
+Naujan,Naujan,13.3233,121.3028,Philippines,PH,PHL,Oriental Mindoro,,109587,1608362602
+Glan,Glan,5.8167,125.2,Philippines,PH,PHL,Sarangani,,109547,1608947570
+Bayugan,Bayugan,8.7143,125.7481,Philippines,PH,PHL,Agusan del Sur,,109499,1608483872
+Tacurong,Tacurong,6.6833,124.6667,Philippines,PH,PHL,Sultan Kudarat,,109319,1608479806
+Talisay,Talisay,10.7333,122.9667,Philippines,PH,PHL,Negros Occidental,,108909,1608509888
+Pulilan,Pulilan,14.902,120.849,Philippines,PH,PHL,Bulacan,,108836,1608740996
+Cawayan,Cawayan,9.9667,122.6167,Philippines,PH,PHL,Negros Occidental,,108480,1608006603
+Maramag,Maramag,7.7667,125,Philippines,PH,PHL,Bukidnon,,108293,1608275407
+Lingayen,Lingayen,16.0167,120.2333,Philippines,PH,PHL,Pangasinan,admin,107728,1608464071
+Carmen,Carmen,7.2,124.7833,Philippines,PH,PHL,Cotabato,,107603,1608666262
+Kawit,Kawit,14.4333,120.9,Philippines,PH,PHL,Cavite,,107535,1608411157
+Taungoo,Taungoo,18.9483,96.4179,Myanmar,MM,MMR,Bago,,106945,1104269989
+Catbalogan,Catbalogan,11.7833,124.8833,Philippines,PH,PHL,Samar,admin,106440,1608878798
+Nakhon Si Thammarat,Nakhon Si Thammarat,8.4363,99.963,Thailand,TH,THA,Nakhon Si Thammarat,admin,106322,1764409111
+Tiaong,Tiaong,13.95,121.3167,Philippines,PH,PHL,Quezon,minor,106265,1608344411
+Carmona,Carmona,14.3167,121.05,Philippines,PH,PHL,Cavite,,106256,1608216694
+Raba,Raba,-8.4614,118.747,Indonesia,ID,IDN,Nusa Tenggara Barat,minor,106101,1360014952
+Mang La,Mang La,14.3838,107.9833,Vietnam,VN,VNM,Kon Tum,,105489,1704178922
+Malu§gun,Malungun,6.2667,125.2833,Philippines,PH,PHL,Sarangani,,105465,1608972592
+Bulan,Bulan,12.6714,123.875,Philippines,PH,PHL,Sorsogon,,105190,1608516439
+Sultan Kudarat,Sultan Kudarat,7.2333,124.25,Philippines,PH,PHL,Maguindanao,,105121,1608836609
+Tagbilaran City,Tagbilaran City,9.65,123.85,Philippines,PH,PHL,Bohol,minor,104976,1608573250
+Masbate,Masbate,12.3667,123.6167,Philippines,PH,PHL,Masbate,admin,104522,1608802236
+Maumere,Maumere,-8.6189,122.2123,Indonesia,ID,IDN,Nusa Tenggara Timur,minor,104285,1360776014
+Balanga,Balanga,14.6833,120.5333,Philippines,PH,PHL,Bataan,admin,104173,1608467104
+Sindangan,Sindangan,8.2333,123,Philippines,PH,PHL,Zamboanga del Norte,,103952,1608537090
+Biak,Biak,-1.18,136.08,Indonesia,ID,IDN,Papua,minor,103610,1360911386
+V?nh Long,Vinh Long,10.255,105.9753,Vietnam,VN,VNM,V?nh Long,admin,103314,1704262419
+Soasio,Soasio,0.6094,127.5697,Indonesia,ID,IDN,Maluku Utara,,103171,1360827216
+San Rafael,San Rafael,14.95,120.9667,Philippines,PH,PHL,Bulacan,,103097,1608373072
+Paniqui,Paniqui,15.6667,120.5833,Philippines,PH,PHL,Tarlac,,103003,1608244278
+Parang,Parang,7.3744,124.2686,Philippines,PH,PHL,Maguindanao,,102914,1608326061
+Guihul§gan,Guihulngan,10.1167,123.2667,Philippines,PH,PHL,Negros Oriental,,102656,1608628412
+Ban Mangkon,Ban Mangkon,13.6138,100.6104,Thailand,TH,THA,Samut Prakan,,102291,1764800579
+Teluk Intan,Teluk Intan,4.0259,101.0213,Malaysia,MY,MYS,Perak,,101659,1458126062
+Sungai Penuh,Sungai Penuh,-2.0636,101.3961,Indonesia,ID,IDN,Jambi,,101325,1360337679
+Santa Cruz,Santa Cruz,6.8333,125.4167,Philippines,PH,PHL,Davao del Sur,,101125,1608664930
+Cavite City,Cavite City,14.4833,120.9,Philippines,PH,PHL,Cavite,,100674,1608639398
+Calasiao,Calasiao,16.0167,120.3667,Philippines,PH,PHL,Pangasinan,,100471,1608768907
+Lamitan,Lamitan,6.65,122.1333,Philippines,PH,PHL,Basilan,,100150,1608647250
+Talipao,Talipao,5.976,121.1087,Philippines,PH,PHL,Sulu,minor,100088,1608300985

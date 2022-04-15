@@ -1,0 +1,13 @@
+COLOR HEX
+
+Klasifikasi PDRB Per Kapita
+#a63e75 - Sangat Rendah
+#eaa28a - Rendah
+#f9cd90 - Sedang
+#c4ef6d - Tinggi
+#56a617 - Sangat Tinggi
+
+Basemap
+#163041 - Laut
+#486373 - Indonesia
+#c9c9c9 - Negara Lain
