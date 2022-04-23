@@ -10,7 +10,13 @@ Seluruh hasil project visualisasi ini dibawah lisensi CC BY-SA 4.0. Kamu boleh m
 ## Daftar Isi
 
 1. [Peta Jumlah Penduduk Kota-Kota di ASEAN | Graduated Size Symbols](#1-peta-jumlah-penduduk-kota-kota-di-asean--graduated-size-symbols)
-2. [Peta Choropleth PDRB Indonesia](#2-peta-choropleth-pdrb-indonesia--choropleth-graduate-size)
+2. [Peta Choropleth PDRB Indonesia | Choropleth; Graduate Size](#2-peta-choropleth-pdrb-indonesia--choropleth-graduate-size)
+3. [Peta Kategori Pembangunan Ekonomi di Dunia | Choropleth Bivariate](#3-peta-kategori-pembangunan-ekonomi-di-dunia--choropleth-bivariate)
+4. [Peta Pulau Bali | Label Hierarchies](#4-peta-pulau-bali--label-hierarchies)
+5. [Peta Jaringan Jalan Provinsi Jawa Tengah dan DIY | Addition Blending Feature](#5-peta-jaringan-jalan-provinsi-jawa-tengah-dan-diy--addition-blending-feature)
+6. [Peta Simpang Susun Cawang | Feature Layer Index](#6-peta-simpang-susun-cawang--feature-layer-index)
+7. [Peta Heart of Borneo, Kalimantan | Inverted Polygon](#7-peta-heart-of-borneo-kalimantan--inverted-polygon)
+8. [Manchester Football Fans | Choropleth with Value by Alpha](#8-manchester-football-fans--choropleth-with-value-by-alpha)
    <br><br>
 
 ### 1. Peta Jumlah Penduduk Kota-Kota di ASEAN | Graduated Size Symbols
@@ -47,4 +53,10 @@ Peta ini dibuat dengan menggunakan metode Feature Index. Visualisasi menggunakan
 ### 7. Peta Heart of Borneo, Kalimantan | Inverted Polygon
 
 Peta ini dibuat dengan menggunakan metode Inverted Polygon. Visualisasi menggunakan basemap SRTM dan Data Taman Nasional yang diunduh dari [UNEP WCMC](https://www.unep-wcmc.org/) <br><br>
-<img src="https://user-images.githubusercontent.com/75885530/164744238-38c4d5f6-34d7-4a53-98c2-6c5b01c8c449.jpeg">
+<img src="https://user-images.githubusercontent.com/75885530/164744304-b566a4fe-ab3b-45c8-af50-7af3ca894e14.jpeg">
+
+### 8. Manchester Football Fans | Choropleth with Value by Alpha
+
+Peta ini dibuat dengan menggunakan metode Choropleth with Value by Alpha. Visualisasi menggunakan Data dari Dr Adam Brown, Manchester Institute of Popular Culture, [Manchester Metropolitan University](https://www.mmu.ac.uk/hlss/) <br><br>
+
+<img src="https://user-images.githubusercontent.com/75885530/164914119-8da1c874-35e0-400a-bd5c-36b5d472c73a.jpeg">
